@@ -1,2 +1,2 @@
 # Movieland
-### A moviestreaming website made with react
+A moviestreaming website made with react
